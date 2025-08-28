@@ -53,8 +53,12 @@
 
 ---
 
-### ✨ Qiziqarli fakt
-> “Kod yozish – bu faqatgina texnika emas, bu san’at 🎨”  
+
+## 🔥 Qiziqarli fact
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=00F71C&center=true&vCenter=true&width=700&lines=Kodni+yozish+–+fikrni+qurishdir.;Har+bir+bug+bir+ustoz.;Dasturchi+o‘z+kodida+abadiy+iz+qoldiradi.;Refaktoring+–+san’atning+bir+ko‘rinishi.;Kichik+commit,+katta+ishning+boshlanishi.;Qiyin+masalani+oddiy+qil,+keyin+yech.;Kodni+o‘qish+–+yozishdan+muqaddas.;Bir+qatorda+ko‘p+fikr+sig‘adi.;Debug+qilmagan+kishi+dasturchi+emas.;Error+sizni+to‘xtatmaydi,+yo‘l+ko‘rsatadi.;Algoritm+–+dasturchining+qalbi.;Donolik+–+optimal+yechimni+topish.;Bilim+sinovda,+kod+ishlashda+bilinadi.;Shoshma,+kompyuter+baribir+tez.;Kodni+qisqa+yozish+emas,+to‘g‘ri+yozish+muhim.;Sodda+kod+–+buyuk+g‘oya+belgisi.;Dasturchi+–+abadiy+o‘quvchi.;Har+bir+if+–+hayotning+tanlovi.;O‘zing+yozmagan+kodni+ham+tushun.;Chiroyli+kod+–+ko‘zga+yoqimli+she’r.">
+</p>
 
 ---
 
