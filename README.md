@@ -54,11 +54,10 @@
 ---
 
 
-## 🔥 Qiziqarli fact
+# 👨‍💻 Qudratillo Tolipjonov  
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=00F71C&center=true&vCenter=true&width=700&lines=Kodni+yozish+–+fikrni+qurishdir.;Har+bir+bug+bir+ustoz.;Dasturchi+o‘z+kodida+abadiy+iz+qoldiradi.;Refaktoring+–+san’atning+bir+ko‘rinishi.;Kichik+commit,+katta+ishning+boshlanishi.;Qiyin+masalani+oddiy+qil,+keyin+yech.;Kodni+o‘qish+–+yozishdan+muqaddas.;Bir+qatorda+ko‘p+fikr+sig‘adi.;Debug+qilmagan+kishi+dasturchi+emas.;Error+sizni+to‘xtatmaydi,+yo‘l+ko‘rsatadi.;Algoritm+–+dasturchining+qalbi.;Donolik+–+optimal+yechimni+topish.;Bilim+sinovda,+kod+ishlashda+bilinadi.;Shoshma,+kompyuter+baribir+tez.;Kodni+qisqa+yozish+emas,+to‘g‘ri+yozish+muhim.;Sodda+kod+–+buyuk+g‘oya+belgisi.;Dasturchi+–+abadiy+o‘quvchi.;Har+bir+if+–+hayotning+tanlovi.;O‘zing+yozmagan+kodni+ham+tushun.;Chiroyli+kod+–+ko‘zga+yoqimli+she’r.">
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=00FF00&center=true&vCenter=true&width=1000&lines=1.+Code+is+like+humor.+When+you+have+to+explain+it,+it's+bad.;2.+In+code+we+trust.;3.+Programming+is+the+art+of+thinking+clearly.;4.+Fixing+bugs+teaches+more+than+writing+perfect+code.;5.+Talk+is+cheap,+show+me+the+code.;6.+A+good+programmer+is+lazy+in+the+right+way.;7.+Debugging+is+like+being+a+detective.;8.+Code+never+lies,+comments+sometimes+do.;9.+First,+solve+the+problem.+Then,+write+the+code.;10.+Simplicity+is+the+soul+of+efficiency.;11.+The+best+code+is+no+code+at+all.;12.+Every+bug+is+a+lesson+in+disguise.;13.+If+it+works,+don’t+touch+it.;14.+Code+smarter,+not+harder.;15.+Good+code+is+its+own+best+documentation.;16.+A+programmer+is+a+machine+that+turns+caffeine+into+code.;17.+Code+is+read+more+than+written.;18.+Make+it+work,+make+it+right,+make+it+fast.;19.+Perfection+is+achieved+not+when+there+is+nothing+more+to+add,+but+when+nothing+left+to+take+away.;20.+Programming+is+99%+thinking,+1%+typing.)](https://git.io/typing-svg)
+
 
 ---
 
