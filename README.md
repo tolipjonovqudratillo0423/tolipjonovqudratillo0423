@@ -1,13 +1,15 @@
-<!-- Profil Banner (GLITCH EFFECT) -->
+<!-- Profil Banner (clean green name) -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=%F0%9D%97%83%F0%9D%97%AA%F0%9D%97%AD%F0%9D%97%A7%F0%9D%97%A2%F0%9D%97%A9%F0%9D%97%A9%F0%9D%97%A8%F0%9D%97%A6%F0%9D%97%A6%20%F0%9D%97%9D%F0%9D%97%A8%F0%9D%97%A5%F0%9D%97%A2%F0%9D%97%A9%F0%9D%97%AC%F0%9D%97%A6%F0%9D%97%A8%F0%9D%97%AF" alt="Glitch Name" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=200&section=header&text=Qudratillo%20Tolipjonov&fontSize=50&fontColor=00FF00&animation=fadeIn" alt="Qudratillo Tolipjonov" />
 </p>
 
-<!-- Typing Animation with Cold Colors Gradient Effect -->
+<!-- Typing Animation (cold-colors, no HTML inside URL) -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=2000&center=true&vCenter=true&width=650&lines=%F0%9F%92%BB+%3Cspan+style%3D'color%3A%2300BFFF'%3EBackend+Developer%3C%2Fspan%3E;%F0%9F%94%92+%3Cspan+style%3D'color%3A%2370C1FF'%3ECybersecurity+Enthusiast%3C%2Fspan%3E;%F0%9F%8C%8D+%3Cspan+style%3D'color%3A%239A7DFF'%3EOpen-Source+Contributor%3C%2Fspan%3E;%F0%9F%93%9A+%3Cspan+style%3D'color%3A%2366FFB2'%3ELifelong+Learner%3C%2Fspan%3E;%F0%9F%9A%80+%3Cspan+st
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=2000&color=00CFFF,0077FF,9A7DFF,66FFB2,00FF99&center=true&vCenter=true&width=650&lines=💻+Backend+Developer;🔒+Cybersecurity+Enthusiast;🌍+Open-Source+Contributor;📚+Lifelong+Learner;🚀+Future+White+Hat+Hacker;⚡+Tech+Explorer" alt="Typing SVG" />
+</p>
 
 ---
+
 
 # 👨‍💻 Qudratjon Tolibjonov  
 
