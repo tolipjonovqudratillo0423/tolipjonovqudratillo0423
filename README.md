@@ -44,8 +44,8 @@ class QudratilloTolibjonov:
         self.name = "Qudratillo Tolibjonov"
         self.role = "Python Developer"
         self.location = "Fergana, Uzbekistan 🇺🇿"
-        self.languages = ["Python 🐍", "JavaScript 💛"]
-        self.learning = ["FastAPI ⚡", "React ⚛️", "Docker 🐳"]
+        self.languages = ["Python 🐍"]
+        self.learning = ["FastAPI ⚡", "Docker 🐳"]
         self.interests = ["Web Development", "API Design", "System Architecture","Cyber Security"]
     
     def say_hello(self):
@@ -75,12 +75,9 @@ dev.say_hello()
   ### ⚡ Frameworks & Libraries
   ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
   ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
-  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-  ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
   
   ### 🗄️ Databases & Cloud
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
   ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
   
   ### 🛠️ Tools & DevOps
@@ -125,30 +122,39 @@ dev.say_hello()
 </div>
 
 ```python
-# My Learning Roadmap 🗺️
+# Backend Engineering Roadmap 🚀
+
 learning_goals = {
-    "🔴 Q1 2025": {
-        "FastAPI": "Advanced API development & microservices",
-        "React": "Modern frontend with hooks & state management", 
-        "Docker": "Containerization & deployment automation",
-        "status": "🔥 Actively Learning"
+    "✅ Completed": {
+        "Python": "Professional backend development",
+        "Django": "Web applications & REST APIs",
+        "Django REST Framework": "RESTful API development",
+        "SQL": "Relational database querying",
+        "PostgreSQL": "Database design & optimization",
+        "Git": "Version control",
+        "Linux": "Development environment"
     },
-    "🟡 Q2 2025": {
-        "Cloud": "AWS services & cloud architecture",
-        "Testing": "TDD, pytest & automated testing",
-        "GraphQL": "Modern API query language",
-        "status": "📋 Planned"
+
+    "🚀 Currently Learning": {
+        "FastAPI": "Production-ready API development",
+        "SQLAlchemy": "Modern ORM & database patterns",
+        "Docker": "Containerization",
+        "Alembic": "Database migrations",
+        "Redis": "Caching & performance optimization"
     },
-    "🟢 H2 2025": {
-        "System Design": "Scalable architecture patterns",
-        "DevOps": "CI/CD pipelines & automation",
-        "Open Source": "Contributing to community projects",
-        "status": "🎯 Future Goals"
+
+    "🎯 Next Goals": {
+        "Testing": "Pytest & integration testing",
+        "CI/CD": "GitHub Actions & deployment pipelines",
+        "Nginx": "Reverse proxy & production setup",
+        "System Design": "Scalable backend architecture",
+        "Microservices": "Distributed systems fundamentals"
     }
 }
-
-for period, goals in learning_goals.items():
-    print(f"{period}: {goals['status']}")
+for section, skills in learning_goals.items():
+    print(f"\n{section}")
+    for technology, description in skills.items():
+        print(f" • {technology}: {description}")
 ```
 
 <!-- Beautiful Separator -->
